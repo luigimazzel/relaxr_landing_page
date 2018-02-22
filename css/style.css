@@ -1,0 +1,158 @@
+body { 
+	font-family:'Open Sans',sans-serif;
+	text-align: center;
+	display:inline-block;
+}
+
+
+div.top_area { 
+	background-image:url("../images/header_bg.jpg"); 
+	width: 1200px;
+	height: 700px;
+}
+
+h1#title {
+	font-family:'Open Sans',sans-serif;
+	font-size: 48px;
+	font-weight: 800;
+	color:white;
+	text-align: left;
+	padding-left: 60px;
+	padding-top: 40px;
+}
+
+p.pieceofmind { 
+	font-family:'Open Sans',sans-serif;
+	font-size: 48px;
+	font-weight: 600; 
+	color:white;
+	padding:50px;
+}
+
+a.getitnow {
+	background: #f9e42e;
+	background-position:fixed;
+	background-top:50%;
+	background-left:50%;
+	border-radius: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family:'Open Sans',sans-serif;
+	font-size: 28px;
+	font-weight: 800;
+	color: #121212;
+	text-decoration: none;
+}
+
+div.benefits {
+	background: #f0efef;
+	width: 1200px;
+	display:inline-block;
+}
+
+h2.benefits2 {
+	font-family:'Open Sans',sans-serif;
+	font-size: 40px;
+	font-weight: 600; 
+	color: #121212;
+	text-align:left;
+	padding-left: 60px;
+	padding-top: 60px;
+}
+
+p.benefits3 {
+	font-family:'Open Sans',sans-serif;
+	font-size: 26px;
+	font-weight: 200; 
+	color: #121212;
+	text-align: left;
+	padding-left: 60px;
+}
+
+ul.benefits4 {
+	font-family:'Open Sans',sans-serif;
+	font-size: 26px;
+	font-weight: 200; 
+	color: #121212;
+	text-align: left;
+	padding-left: 120px;
+	padding-top: 40px;
+	padding-bottom: 60px;
+	list-style-type:disc;
+}
+
+div.imagequotation {
+	background-image:url("../images/testimonial_bg.jpg"); 
+	width: 1200px;
+	height: 394px;
+}
+
+blockquote.quotation {
+	font-family:'Open Sans',sans-serif;
+	font-size: 36px;
+	font-weight: 200; 
+	font-style: italic;
+	color: white;
+	display: inline-block;
+	width:500px;
+	padding-top: 20px;
+}
+
+p.author {
+	font-family:'Open Sans',sans-serif;
+	font-size: 36px;
+	font-weight: 600; 
+	color: white;
+	font-style:normal;
+}
+
+div.stripe {
+	background-color: #f9e42e;
+	width:1200px;
+	height:100px;
+}
+
+a.sign{
+	background: #033048;
+	background-position:fixed;
+	background-top:50%;
+	background-left:50%;
+	border-radius: 5px;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-family:'Open Sans',sans-serif;
+	font-size: 28px;
+	font-weight: 800;
+	color: white;
+	text-decoration: none;
+
+
+}
+
+div.bottom_area {
+    background-color: #121212;
+	width:1200px;
+	height:400px;
+	display: inline-block;
+
+}
+
+h2.bottom_title {
+	font-family:'Open Sans',sans-serif;
+	font-size: 48px;
+	font-weight: 800;
+	color: #f9e42e;
+	padding-top: 40px;
+}
+
+p.copyright{
+	font-family:'Open Sans',sans-serif;
+	font-size: 18px;
+	font-weight: 600;
+	color: white;
+	padding-top: 60px;
+}
+
+
+
+
